@@ -1,0 +1,8 @@
+1.0.0
+
+First version.
+Removed [allow_undo] as it caused gold oos.
+
+1.0.1
+
+Fixed oos caused by capture event firing when using undo.

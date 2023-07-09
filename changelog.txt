@@ -14,3 +14,7 @@ Fixed critical bug preventing all ai moves of the following turn after moving to
 1.0.3
 
 Moved addon code into _main.cfg
+
+1.0.4
+
+Support undo

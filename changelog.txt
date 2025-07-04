@@ -22,3 +22,7 @@ Support undo
 1.0.5
 
 Change default to not capture village
+
+1.0.6
+
+Enable singleplayer
